@@ -32,15 +32,3 @@ body {
 #back-button:hover {
   color: gray;
 }
-@media only screen and (max-width: 50%) {
-  body {
-    width: 20%;
-    height: 40%;
-  }
-  .form-container {
-    width: 30px;
-  }
-  #next-button {
-    width: 30px;
-  }
-}
